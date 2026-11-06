@@ -1,33 +1,34 @@
-<h1 align="left">Hey, What's up Guys?</h1>
+# Hi there, I'm Bryan 👋
 
-###
+**Software Development Student** based in Brazil, focused on building practical web applications and data-driven solutions. Currently expanding my skills in back-end logic, front-end interfaces, and relational databases.
 
-# 👋 Welcome to my GitHub Profile! 🪵🔥
+---
 
-## About Me ℹ️
-Hi there! I'm Bryan, a GitHub user who loves Jujutsu Kaisen and coding! I'm passionate about combining cursed energy manipulation with programming.
+### 🛠️ Tech Stack & Tools
 
-<!-- Dropdown -->
-<details>
-  <summary>👨‍💻 More about me</summary>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-  - 💬 I am 19 years old, currently living in Brazil. I have a moderate level of English proficiency and I'm currently learning SQL, HTML, Javascript, and Python 
+---
 
-  - ⚡ I enjoy reading manga, or comics, as well as watching movies and playing games like Destiny 2! 
-</details>
+### 🚀 Featured Projects
 
-## My Jujutsu Skills 🥋
-- Cursed Energy Manipulation
-- Combat Techniques
-- Domain Expansion
-- Curse Techniques
+- **[Project Name 1](https://github.com/LittleMassa)** – Brief description of what the project does, the problem it solves, and the technologies used (e.g., Python, SQL).
+- **[Project Name 2](https://github.com/LittleMassa)** – Brief description of a web interface or script you built using JavaScript and HTML.
+- **[Project Name 3](https://github.com/LittleMassa)** – Brief description of a study repository, automation tool, or database project.
 
-## Highlighted Projects 🌟
-- [Sukuna's Repository](#) - A collection of cursed code snippets.
-- [Gojo's Code Techniques](#) - Using infinity to optimize algorithms.
-- [Fushiguro's Algorithm](#) - An implementation of a mystic algorithm.
+---
 
-###
+### 🌐 More About Me
+
+- 🌱 Currently deepening my knowledge in **Python, JavaScript, HTML, and SQL**.
+- 🗣️ **Languages:** Portuguese (Native) and English (Intermediate).
+- ⚡ **Off-screen:** Enjoy reading manga, watching movies, and gaming.
+
+---
 
 ###
 <!-- GIF -->
