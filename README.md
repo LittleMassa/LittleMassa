@@ -32,7 +32,7 @@
 <!-- GIF -->
 
 <p align="center">
-  <img width="640" height="360" alt="Banner" src=https://github.com/LittleMassa/LittleMassa/assets/145071973//f9ca24dc-c64e-47dd-bfe2-c6be8f722aa6" />
+  <img width="640" height="360" alt="Banner" src=https://github.com/LittleMassa/LittleMassa/assets/145071973/f9ca24dc-c64e-47dd-bfe2-c6be8f722aa6" />
 </p>
 <p align="left">
   <img align="center" src="https://github.com/LittleMassa/LittleMassa/assets/145071973/9ca79279-228f-4828-8cc5-78d0ebb7ffde" alt="Imagem">
