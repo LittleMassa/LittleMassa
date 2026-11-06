@@ -7,7 +7,7 @@
 ### 🛠️ Tech Stack & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -16,15 +16,13 @@
 
 ### 🚀 Featured Projects
 
-- **[Project Name 1](https://github.com/LittleMassa)** – Brief description of what the project does, the problem it solves, and the technologies used (e.g., Python, SQL).
-- **[Project Name 2](https://github.com/LittleMassa)** – Brief description of a web interface or script you built using JavaScript and HTML.
-- **[Project Name 3](https://github.com/LittleMassa)** – Brief description of a study repository, automation tool, or database project.
+![Status](https://img.shields.io/badge/Status-Work%20in%20Progress-FFB800?style=for-the-badge)
 
 ---
 
 ### 🌐 More About Me
 
-- 🌱 Currently deepening my knowledge in **Python, JavaScript, HTML, and SQL**.
+- 🌱 Currently deepening my knowledge in **Python, Kotlin, HTML, and SQL**.
 - 🗣️ **Languages:** Portuguese (Native) and English (Intermediate).
 - ⚡ **Off-screen:** Enjoy reading manga, watching movies, and gaming.
 
@@ -32,6 +30,10 @@
 
 ###
 <!-- GIF -->
+
+<p align="center">
+  <img width="640" height="360" alt="Banner" src=https://github.com/LittleMassa/LittleMassa/assets/145071973//f9ca24dc-c64e-47dd-bfe2-c6be8f722aa6" />
+</p>
 <p align="left">
   <img align="center" src="https://github.com/LittleMassa/LittleMassa/assets/145071973/9ca79279-228f-4828-8cc5-78d0ebb7ffde" alt="Imagem">
 </p>
